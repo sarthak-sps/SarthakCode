@@ -1,0 +1,70 @@
+{
+  "sample":[
+    {
+      "description":"Pizza",
+      "imageUrl":"https://media.istockphoto.com/id/1377372234/photo/pizza-with-salami-bell-pepper-tomatoes-and-cheese-pickles-bacon-and-sausages-on-a-light.jpg?b=1&s=170667a&w=0&k=20&c=YzA_49p5fH6mh665R9egzdRRYwGpPMoxjnK3Qs6C2Uo="
+    },
+    {
+      "description":"Burger",
+      "imageUrl":"https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    },
+    {
+      "description":"Biryani",
+      "imageUrl":"https://c.ndtvimg.com/2022-04/fq5cs53_biryani-doubletree-by-hilton_625x300_12_April_22.jpg"
+    },
+    {
+      "description":"Ice cream",
+      "imageUrl":"https://joyfoodsunshine.com/wp-content/uploads/2020/06/homemade-chocolate-ice-cream-recipe-7.jpg"
+    },
+    {
+      "description":"Paneer",
+      "imageUrl":"https://www.indianhealthyrecipes.com/wp-content/uploads/2023/02/paneer-curry-recipe.jpg"
+    },
+    {
+      "description":"Chowmein",
+      "imageUrl":"https://i.ytimg.com/vi/eSTYcMhoRzU/maxresdefault.jpg"
+    },
+    {
+      "description":"Chicken",
+      "imageUrl":"https://assets.epicurious.com/photos/62f16ed5fe4be95d5a460eed/3:2/w_6948,h_4632,c_limit/RoastChicken_RECIPE_080420_37993.jpg"
+    },
+    {
+      "description":"Rolls",
+      "imageUrl":"https://uploads-ssl.webflow.com/5c481361c604e53624138c2f/60f2ea67b471327a1d82959b_chicken%20roll_1500%20x%201200.jpg"
+    },
+    {
+      "description":"Thali",
+      "imageUrl":"https://static.toiimg.com/photo/94078477.cms"
+    },
+    {
+      "description":"Cake",
+      "imageUrl":"https://imgcdn.floweraura.com/hearty-anniversary-cake-9831540ca-A_0.jpg"
+    },
+    {
+      "description":"Momos",
+      "imageUrl":"https://www.foodieist.com/wp-content/uploads/2020/12/veg-momos-recipe-672x372.jpg"
+    },
+    {
+      "description":"Fried Rice",
+      "imageUrl":"https://hips.hearstapps.com/hmg-prod/images/chicken-fried-rice-horizontal-1545488885.png?crop=0.668xw:1.00xh;0.0994xw,0&resize=980:*"
+    },
+    {
+      "description":"Fries",
+      "imageUrl":"https://images.themodernproper.com/billowy-turkey/production/posts/2022/Homemade-French-Fries_8.jpg?w=960&h=720&q=82&fm=jpg&fit=crop&dm=1662474181&s=5dd5ceda5f0fe7cad1646e5c997c32ae"
+    },
+    {
+      "description":"Sandwich",
+      "imageUrl":"https://www.licious.in/blog/wp-content/uploads/2022/11/shutterstock_1476312209.jpg"
+    },
+    {
+      "description":"Dal",
+      "imageUrl":"https://shwetainthekitchen.com/wp-content/uploads/2021/12/Dal-Fry-Recipe.jpg"
+    }
+
+  ]
+
+}
+
+
+
+
